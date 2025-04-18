@@ -80,22 +80,3 @@ labels: documentation
 | **[RINGO: Real-time Navigation with a Guiding Trajectory for Aerial Manipulators in Unknown Environments](http://arxiv.org/abs/2504.08338v2)** | 2025-04-14 | [papers-cool](https://papers.cool/arxiv/2504.08338v2) | 9 pages, 15 figures |
 | **[Transferable text data distillation by trajectory matching](http://arxiv.org/abs/2504.09818v1)** | 2025-04-14 | [papers-cool](https://papers.cool/arxiv/2504.09818v1) |  |
 
-## Trajectories
-| **Title** | **Date** | **KiMi** | **Comment** |
-| --- | --- | --- | --- |
-| **[Uncertainty-Aware Trajectory Prediction via Rule-Regularized Heteroscedastic Deep Classification](http://arxiv.org/abs/2504.13111v1)** | 2025-04-17 | [papers-cool](https://papers.cool/arxiv/2504.13111v1) | <details><summary>17 Pa...</summary><p>17 Pages, 9 figures. Accepted to Robotics: Science and Systems(RSS), 2025</p></details> |
-| **[Set You Straight: Auto-Steering Denoising Trajectories to Sidestep Unwanted Concepts](http://arxiv.org/abs/2504.12782v1)** | 2025-04-17 | [papers-cool](https://papers.cool/arxiv/2504.12782v1) | Preprint |
-| **[Trajectory Adaptation using Large Language Models](http://arxiv.org/abs/2504.12755v1)** | 2025-04-17 | [papers-cool](https://papers.cool/arxiv/2504.12755v1) | <details><summary>Accep...</summary><p>Accepted to CoRL LangRob workshop 2024</p></details> |
-| **[Distribution Backtracking Builds A Faster Convergence Trajectory for Diffusion Distillation](http://arxiv.org/abs/2408.15991v3)** | 2025-04-17 | [papers-cool](https://papers.cool/arxiv/2408.15991v3) | <details><summary>Our c...</summary><p>Our code is publicly available on https://github.com/SYZhang0805/DisBack</p></details> |
-| **[TraCeS: Trajectory Based Credit Assignment From Sparse Safety Feedback](http://arxiv.org/abs/2504.12557v1)** | 2025-04-17 | [papers-cool](https://papers.cool/arxiv/2504.12557v1) |  |
-| **[Adapting a World Model for Trajectory Following in a 3D Game](http://arxiv.org/abs/2504.12299v1)** | 2025-04-16 | [papers-cool](https://papers.cool/arxiv/2504.12299v1) |  |
-| **[GripMap: An Efficient, Spatially Resolved Constraint Framework for Offline and Online Trajectory Planning in Autonomous Racing](http://arxiv.org/abs/2504.12115v1)** | 2025-04-16 | [papers-cool](https://papers.cool/arxiv/2504.12115v1) |  |
-| **[Stochastic Trajectory Optimization for Robotic Skill Acquisition From a Suboptimal Demonstration](http://arxiv.org/abs/2408.03131v3)** | 2025-04-16 | [papers-cool](https://papers.cool/arxiv/2408.03131v3) |  |
-| **[Trajectory-guided Motion Perception for Facial Expression Quality Assessment in Neurological Disorders](http://arxiv.org/abs/2504.09530v2)** | 2025-04-16 | [papers-cool](https://papers.cool/arxiv/2504.09530v2) | <details><summary>Accep...</summary><p>Accepted to IEEE FG 2025 (preprint)</p></details> |
-| **[Trajectory Encoding Temporal Graph Networks](http://arxiv.org/abs/2504.11386v1)** | 2025-04-15 | [papers-cool](https://papers.cool/arxiv/2504.11386v1) |  |
-| **[GC-GAT: Multimodal Vehicular Trajectory Prediction using Graph Goal Conditioning and Cross-context Attention](http://arxiv.org/abs/2504.11150v1)** | 2025-04-15 | [papers-cool](https://papers.cool/arxiv/2504.11150v1) |  |
-| **[Towards Robust Trajectory Embedding for Similarity Computation: When Triangle Inequality Violations in Distance Metrics Matter](http://arxiv.org/abs/2504.10933v1)** | 2025-04-15 | [papers-cool](https://papers.cool/arxiv/2504.10933v1) | 14 pages, 8 figures |
-| **[Leveraging Driver Field-of-View for Multimodal Ego-Trajectory Prediction](http://arxiv.org/abs/2312.08558v2)** | 2025-04-15 | [papers-cool](https://papers.cool/arxiv/2312.08558v2) | <details><summary>Accep...</summary><p>Accepted to 13th International Conference on Learning Representations (ICLR 2025), 29 pages</p></details> |
-| **[RINGO: Real-time Navigation with a Guiding Trajectory for Aerial Manipulators in Unknown Environments](http://arxiv.org/abs/2504.08338v2)** | 2025-04-14 | [papers-cool](https://papers.cool/arxiv/2504.08338v2) | 9 pages, 15 figures |
-| **[Transferable text data distillation by trajectory matching](http://arxiv.org/abs/2504.09818v1)** | 2025-04-14 | [papers-cool](https://papers.cool/arxiv/2504.09818v1) |  |
-
