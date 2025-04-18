@@ -33,13 +33,13 @@ jobs:
     - name: Commit and push changes
       uses: github-actions-x/commit@v2.9
       with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
+        github-token: ${{ secrets.TOKEN }}
         push-branch: 'main'
         commit-message: '✏️ Update papers automatically.'
         force-add: 'true'
         files: README.md .github/ISSUE_TEMPLATE.md
-        name: qiantw
-        email: 49673831@qq.com
+        name: KMnO4-zx
+        email: 1021385881@qq.com
 
     - name: Create an issue to notify
       uses: JasonEtco/create-an-issue@v2

@@ -26,7 +26,7 @@ with open("README.md", "r") as f:
         sys.exit("Already updated today!")
 
 # 定义搜索关键词列表
-keywords = ["Spatial", "Spatio", "Time", "Trajectory", "Trajectories"] # TODO 添加更多关键词
+keywords = ["Spatial", "Spatio", "Time", "Trajectory"] # TODO 添加更多关键词
 
 max_result = 100  # 每个关键词从arXiv API查询的最大结果数
 issues_result = 15  # 在issue中包含的最大论文数量
