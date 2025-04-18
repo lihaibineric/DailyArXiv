@@ -123,7 +123,7 @@ def generate_table(papers: List[Dict[str, str]], ignore_keys: List[str] = []) ->
                 else:
                     formatted_paper[key] = paper[key]
             elif key == "KiMi":
-                formatted_paper[key] = "https://papers.cool/arxiv/" + paper["Link"].split('/')[-1]
+                formatted_paper[key] = f"[papers-cool]({'https://papers.cool/arxiv/' + paper['Link'].split('/')[-1]})"
         formatted_papers.append(formatted_paper)
 
     # 生成表头
