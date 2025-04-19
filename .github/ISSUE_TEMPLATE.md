@@ -4,6 +4,25 @@ labels: documentation
 ---
 **Please check the [Github](https://github.com/KMnO4-zx/DailyArXiv) page for a better reading experience and more papers.**
 
+## Geoscience
+| **Title** | **Date** | **KiMi** | **Comment** |
+| --- | --- | --- | --- |
+| **[GeoRSMLLM: A Multimodal Large Language Model for Vision-Language Tasks in Geoscience and Remote Sensing](http://arxiv.org/abs/2503.12490v1)** | 2025-03-16 | [papers-cool](https://papers.cool/arxiv/2503.12490v1) |  |
+| **[Towards Foundation Models: Evaluation of Geoscience Artificial Intelligence with Uncertainty](http://arxiv.org/abs/2501.14809v1)** | 2025-01-15 | [papers-cool](https://papers.cool/arxiv/2501.14809v1) |  |
+| **[When Geoscience Meets Foundation Models: Towards General Geoscience Artificial Intelligence System](http://arxiv.org/abs/2309.06799v5)** | 2024-11-12 | [papers-cool](https://papers.cool/arxiv/2309.06799v5) | <details><summary>accpe...</summary><p>accpeted by IEEE Geoscience and Remote Sensing Magazine</p></details> |
+| **[Prototype-Based Methods in Explainable AI and Emerging Opportunities in the Geosciences](http://arxiv.org/abs/2410.19856v1)** | 2024-10-22 | [papers-cool](https://papers.cool/arxiv/2410.19856v1) | <details><summary>Accep...</summary><p>Accepted at AI for Science Workshop-Oral (Attention Track), Proceedings of 41st International Conference on Machine Learning (ICML) 2024</p></details> |
+| **[Interpretable Geoscience Artificial Intelligence (XGeoS-AI): Application to Demystify Image Recognition](http://arxiv.org/abs/2311.04940v2)** | 2024-05-07 | [papers-cool](https://papers.cool/arxiv/2311.04940v2) | <details><summary>there...</summary><p>there are some erros in the results, and a newer revision is still preparing</p></details> |
+| **[GeoGalactica: A Scientific Large Language Model in Geoscience](http://arxiv.org/abs/2401.00434v2)** | 2024-04-13 | [papers-cool](https://papers.cool/arxiv/2401.00434v2) |  |
+| **[A novel approach for estimating functions in the multivariate setting based on an adaptive knot selection for B-splines with an application to a chemical system used in geoscience](http://arxiv.org/abs/2306.00686v3)** | 2024-01-25 | [papers-cool](https://papers.cool/arxiv/2306.00686v3) | 29 pages, 27 figures |
+| **[When Geoscience Meets Generative AI and Large Language Models: Foundations, Trends, and Future Challenges](http://arxiv.org/abs/2402.03349v1)** | 2024-01-25 | [papers-cool](https://papers.cool/arxiv/2402.03349v1) |  |
+| **[Differentiable modeling to unify machine learning and physical models and advance Geosciences](http://arxiv.org/abs/2301.04027v2)** | 2023-12-27 | [papers-cool](https://papers.cool/arxiv/2301.04027v2) |  |
+| **[K2: A Foundation Language Model for Geoscience Knowledge Understanding and Utilization](http://arxiv.org/abs/2306.05064v2)** | 2023-09-13 | [papers-cool](https://papers.cool/arxiv/2306.05064v2) |  |
+| **[AI Security for Geoscience and Remote Sensing: Challenges and Future Trends](http://arxiv.org/abs/2212.09360v2)** | 2023-06-22 | [papers-cool](https://papers.cool/arxiv/2212.09360v2) |  |
+| **[Coarse-to-fine Task-driven Inpainting for Geoscience Images](http://arxiv.org/abs/2211.11059v3)** | 2022-12-06 | [papers-cool](https://papers.cool/arxiv/2211.11059v3) |  |
+| **[Investigating the fidelity of explainable artificial intelligence methods for applications of convolutional neural networks in geoscience](http://arxiv.org/abs/2202.03407v2)** | 2022-09-05 | [papers-cool](https://papers.cool/arxiv/2202.03407v2) |  |
+| **[Data Centred Intelligent Geosciences: Research Agenda and Opportunities, Position Paper](http://arxiv.org/abs/2209.02384v1)** | 2022-08-20 | [papers-cool](https://papers.cool/arxiv/2209.02384v1) |  |
+| **[Beyond Visuals : Examining the Experiences of Geoscience Professionals With Vision Disabilities in Accessing Data Visualizations](http://arxiv.org/abs/2207.13220v1)** | 2022-07-27 | [papers-cool](https://papers.cool/arxiv/2207.13220v1) |  |
+
 ## Spatial
 | **Title** | **Date** | **KiMi** | **Comment** |
 | --- | --- | --- | --- |
@@ -22,25 +41,6 @@ labels: documentation
 | **[GripMap: An Efficient, Spatially Resolved Constraint Framework for Offline and Online Trajectory Planning in Autonomous Racing](http://arxiv.org/abs/2504.12115v1)** | 2025-04-16 | [papers-cool](https://papers.cool/arxiv/2504.12115v1) |  |
 | **[Single-shot Star-convex Polygon-based Instance Segmentation for Spatially-correlated Biomedical Objects](http://arxiv.org/abs/2504.12078v1)** | 2025-04-16 | [papers-cool](https://papers.cool/arxiv/2504.12078v1) | 12 pages, 8 figures |
 | **[Local Clustering and Global Spreading of Receptors for Optimal Spatial Gradient Sensing](http://arxiv.org/abs/2410.03395v2)** | 2025-04-16 | [papers-cool](https://papers.cool/arxiv/2410.03395v2) | <details><summary>This ...</summary><p>This version has been accepted for publication in Physical Review Letters. The final version is available at https://doi.org/10.1103/PhysRevLett.134.158401. Title has changed</p></details> |
-
-## Spatio
-| **Title** | **Date** | **KiMi** | **Comment** |
-| --- | --- | --- | --- |
-| **[Spatio-Temporal Fuzzy-oriented Multi-Modal Meta-Learning for Fine-grained Emotion Recognition](http://arxiv.org/abs/2412.13541v3)** | 2025-04-16 | [papers-cool](https://papers.cool/arxiv/2412.13541v3) | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Multimodal Spatio-temporal Graph Learning for Alignment-free RGBT Video Object Detection](http://arxiv.org/abs/2504.11779v1)** | 2025-04-16 | [papers-cool](https://papers.cool/arxiv/2504.11779v1) |  |
-| **[SPOT: Spatio-Temporal Pattern Mining and Optimization for Load Consolidation in Freight Transportation Networks](http://arxiv.org/abs/2504.09680v1)** | 2025-04-13 | [papers-cool](https://papers.cool/arxiv/2504.09680v1) |  |
-| **[OmniMamba4D: Spatio-temporal Mamba for longitudinal CT lesion segmentation](http://arxiv.org/abs/2504.09655v1)** | 2025-04-13 | [papers-cool](https://papers.cool/arxiv/2504.09655v1) | <details><summary>Accep...</summary><p>Accepted at IEEE International Symposium on Biomedical Imaging (ISBI) 2025</p></details> |
-| **[VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning](http://arxiv.org/abs/2504.06958v3)** | 2025-04-13 | [papers-cool](https://papers.cool/arxiv/2504.06958v3) |  |
-| **[Efficient Spatio-Temporal Signal Recognition on Edge Devices Using PointLCA-Net](http://arxiv.org/abs/2411.14585v2)** | 2025-04-13 | [papers-cool](https://papers.cool/arxiv/2411.14585v2) | <details><summary>Accep...</summary><p>Accepted to International Joint Conference on Neural Networks(IJCNN), 2015</p></details> |
-| **[DG-STMTL: A Novel Graph Convolutional Network for Multi-Task Spatio-Temporal Traffic Forecasting](http://arxiv.org/abs/2504.07822v2)** | 2025-04-11 | [papers-cool](https://papers.cool/arxiv/2504.07822v2) |  |
-| **[Multi-resolution filters via linear projection for large spatio-temporal datasets](http://arxiv.org/abs/2401.05315v3)** | 2025-04-11 | [papers-cool](https://papers.cool/arxiv/2401.05315v3) | <details><summary>44 pa...</summary><p>44 pages, 10 figures, 2 tables</p></details> |
-| **[SpaceVLLM: Endowing Multimodal Large Language Model with Spatio-Temporal Video Grounding Capability](http://arxiv.org/abs/2503.13983v3)** | 2025-04-11 | [papers-cool](https://papers.cool/arxiv/2503.13983v3) |  |
-| **[Deep spatio-temporal point processes: Advances and new directions](http://arxiv.org/abs/2504.06364v1)** | 2025-04-08 | [papers-cool](https://papers.cool/arxiv/2504.06364v1) |  |
-| **[STNAGNN: Data-driven Spatio-temporal Brain Connectivity beyond FC](http://arxiv.org/abs/2406.12065v2)** | 2025-04-08 | [papers-cool](https://papers.cool/arxiv/2406.12065v2) |  |
-| **[STPro: Spatial and Temporal Progressive Learning for Weakly Supervised Spatio-Temporal Grounding](http://arxiv.org/abs/2502.20678v2)** | 2025-04-05 | [papers-cool](https://papers.cool/arxiv/2502.20678v2) | CVPR'25 Conference |
-| **[DP-LET: An Efficient Spatio-Temporal Network Traffic Prediction Framework](http://arxiv.org/abs/2504.03792v1)** | 2025-04-04 | [papers-cool](https://papers.cool/arxiv/2504.03792v1) | 6 pages |
-| **[Distributionally Robust Predictive Runtime Verification under Spatio-Temporal Logic Specifications](http://arxiv.org/abs/2504.02964v1)** | 2025-04-03 | [papers-cool](https://papers.cool/arxiv/2504.02964v1) | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2311.09482</p></details> |
-| **[Towards Multi-agent Reinforcement Learning based Traffic Signal Control through Spatio-temporal Hypergraphs](http://arxiv.org/abs/2404.11014v2)** | 2025-04-03 | [papers-cool](https://papers.cool/arxiv/2404.11014v2) | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Mobile Computing</p></details> |
 
 ## Time
 | **Title** | **Date** | **KiMi** | **Comment** |
