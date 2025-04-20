@@ -26,7 +26,7 @@ with open("README.md", "r") as f:
         sys.exit("Already updated today!")
 
 # 定义搜索关键词列表
-keywords = ["Geoscience", "Spatial", "Time", "Trajectory"] # TODO 添加更多关键词
+keywords = ["Reward", "Reasoning", "test-time", "LLMs", "verifier"] # TODO 添加更多关键词
 
 max_result = 100  # 每个关键词从arXiv API查询的最大结果数
 issues_result = 15  # 在issue中包含的最大论文数量
@@ -54,7 +54,7 @@ f_is.write("title: Latest {0} Papers - {1}\n".format(issues_result, get_daily_da
 f_is.write("labels: documentation\n")  # 设置issue标签
 f_is.write("---\n")  # 写入YAML后端分隔符
 # 添加指向GitHub仓库的链接提示
-f_is.write("**Please check the [Github](https://github.com/KMnO4-zx/DailyArXiv) page for a better reading experience and more papers.**\n\n")
+f_is.write("**Please check the [Github](https://github.com/lihaibineric/DailyArXiv) page for a better reading experience and more papers.**\n\n")
 
 # 遍历每个关键词，获取相关论文并生成表格
 for keyword in keywords:
