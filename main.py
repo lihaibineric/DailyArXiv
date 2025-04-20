@@ -20,15 +20,16 @@ with open("README.md", "r") as f:
     while True:
         line = f.readline()
         if "Last update:" in line: break  # 找到包含更新日期的行
-    last_update_date = line.split(": ")[1].strip()  # 提取日期部分
+    # last_update_date = line.split(": ")[1].strip()  # 提取日期部分
+    last_update_date = '2025-04-21'
     # 如果今天已经更新过，则退出程序
     if last_update_date == current_date:
         sys.exit("Already updated today!")
 
 # 定义搜索关键词列表
-keywords = ["Reward", "Reasoning", "test-time", "LLMs", "verifier"] # TODO 添加更多关键词
+keywords = ["LLMs", "Reasoning", "scaling", "reward model", "Reinforcement", "verifier"] # TODO 添加更多关键词
 
-max_result = 100  # 每个关键词从arXiv API查询的最大结果数
+max_result = 50  # 每个关键词从arXiv API查询的最大结果数
 issues_result = 15  # 在issue中包含的最大论文数量
 
 # 所有可用列: Title, Authors, Abstract, Link, Tags, Comment, Date
